@@ -5,12 +5,13 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: true
   pagination:
     visible: true
 ---
 
-# Формулировка запроса
+# Формулировки запросов
 
+Этот раздел запланирован, но не наполнен. Чтобы узнать, когда здесь появится информация — подпишитесь [на Блог](https://mqs.ai/blog). Если не терпится, задайте вопрос [в Клубе](https://mqs.ai/club).

@@ -1,7 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Награда в реальности
 
-За прохождение квеста в сновидении вы получите награду в реальной жизни.
-
-{% hint style="warning" %}
-**Премиум**
-{% endhint %}
+Этот раздел запланирован, но не наполнен. Чтобы узнать, когда здесь появится информация — подпишитесь [на Блог](https://mqs.ai/blog). Если не терпится, задайте вопрос [в Клубе](https://mqs.ai/club).
