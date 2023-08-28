@@ -8,15 +8,15 @@ layout:
   tableOfContents:
     visible: false
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: false
 ---
 
 # Заказ чудес —  это норма ✨
 
-<mark style="background-color:purple;">Жизнь, о которой мечтают</mark> \ <mark style="background-color:purple;">с детства:</mark> <mark style="background-color:purple;"></mark>_<mark style="background-color:purple;">всё получается</mark>_ \ <mark style="background-color:purple;">всем хорошо</mark> <mark style="background-color:purple;"></mark>_<mark style="background-color:purple;">и можно всё!</mark>_&#x20;
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<mark style="background-color:yellow;">Жизнь, о которой мечтают</mark>\ <mark style="background-color:yellow;">с детства:</mark> <mark style="background-color:yellow;"></mark>_<mark style="background-color:yellow;">всё получается</mark>_\ <mark style="background-color:yellow;">всем хорошо</mark> <mark style="background-color:yellow;"></mark>_<mark style="background-color:yellow;">и можно всё!</mark>_
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Заказ чудес** **это норма  ✨**
 
