@@ -26,7 +26,7 @@
 * [💕 Деньги за друзей](club/share.md)
 * [Платформа разработки](club/devel.md)
 
-## Штаб 🔬 <a href="#lab" id="lab"></a>
+## Штаб 💎 <a href="#lab" id="lab"></a>
 
 * [Миссия, видение, план](lab/about.md)
 * [Инвестиционный питч](lab/pitch.md)
