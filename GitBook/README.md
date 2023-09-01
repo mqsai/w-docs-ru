@@ -26,7 +26,7 @@ layout:
 
 </div>
 
-<mark style="background-color:yellow;">Жизнь, о которой мечтают</mark>\ <mark style="background-color:yellow;">с детства:</mark> <mark style="background-color:yellow;"></mark>_<mark style="background-color:yellow;">все получается</mark>_\ <mark style="background-color:yellow;">всем хорошо</mark> <mark style="background-color:yellow;"></mark>_<mark style="background-color:yellow;">и всё можно!</mark>_
+<mark style="background-color:purple;">Жизнь, о которой мечтают</mark>\ <mark style="background-color:purple;">с детства:</mark> <mark style="background-color:purple;"></mark>_<mark style="background-color:purple;">все получается</mark>_\ <mark style="background-color:purple;">всем хорошо</mark> <mark style="background-color:purple;"></mark>_<mark style="background-color:purple;">и всё можно!</mark>_
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Заказ чудес** **это норма  ✨**
