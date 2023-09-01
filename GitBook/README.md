@@ -44,3 +44,5 @@ layout:
 #### Если у вас ещё нет промокода от клиентов Макса — [заполните анкету](https://mqs.ai/bot) 🤖 — пригласят позже…
 
 {% embed url="https://mqs.ai/bot" fullWidth="false" %}
+
+<figure><img src=".gitbook/assets/gitbook_cover.png" alt=""><figcaption></figcaption></figure>
