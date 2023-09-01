@@ -4,7 +4,7 @@ cover: .gitbook/assets/gitbook_cover.png
 coverY: 0
 layout:
   cover:
-    visible: true
+    visible: false
     size: hero
   title:
     visible: false
@@ -19,6 +19,12 @@ layout:
 ---
 
 # Заказ чудес —  это норма ✨
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/logotype_QR_onBlack 1.png" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="background-color:yellow;">Жизнь, о которой мечтают</mark>\ <mark style="background-color:yellow;">с детства:</mark> <mark style="background-color:yellow;"></mark>_<mark style="background-color:yellow;">все получается</mark>_\ <mark style="background-color:yellow;">всем хорошо</mark> <mark style="background-color:yellow;"></mark>_<mark style="background-color:yellow;">и всё можно!</mark>_
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -42,5 +48,3 @@ layout:
 ### Доступ только 👾 по приглашению
 
 #### Если у вас ещё нет промокода от клиентов Макса — [заполните анкету](https://mqs.ai/bot) 🤖 — пригласят позже…
-
-{% embed url="https://mqs.ai/bot" fullWidth="false" %}
